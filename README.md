@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vitor Bondezan</h1>
 <h3 align="center">I'm QA Engineer II</h3>
 
+- 🌱 I’m currently learning **Cypress, JavaScript and all the news related to QA tools**
 
-- 🔭 I’m currently working at **Dock** on **Instant Payments project (PIX)**
-
-- 🌱 I’m currently learning **Cypress, JavaScript, Java + Selenium and all the news related to QA tools**
-
-- 💬 Ask me about **Ruby and Cucumber**
+- 💬 Ask me about **JavaScript, Ruby and Cypress**
 
 - 📫 How to reach me **vbondezan@gmail.com**
 
